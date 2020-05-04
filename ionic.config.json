@@ -1,0 +1,7 @@
+{
+  "name": "ionic_popover_bug",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
